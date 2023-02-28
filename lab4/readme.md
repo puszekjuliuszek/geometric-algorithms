@@ -1,1 +1,1 @@
-lab 4
+lab 4 was about finding crosses beeten setions 
