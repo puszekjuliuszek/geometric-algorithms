@@ -1,1 +1,1 @@
-lab 2
+lab 2 was about making a convex hull
