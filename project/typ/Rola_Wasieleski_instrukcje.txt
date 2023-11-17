@@ -1,0 +1,3 @@
+W archiwnum "Rola_Wasieleski_projekt.zip" umieszczony jest folder z testami. 
+Są to przykładowe wielokąty służące do sprawdzania poprawności algorytmów.
+Proszę, aby na czas wykonywania mojego kodu z Jupyter Notebook umieściła Pani folder tests w tym samym folderze, w którym jest plik z kodem.
